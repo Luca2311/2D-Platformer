@@ -23,9 +23,6 @@ public class StvoriNovcice : MonoBehaviour
                 Instantiate(coin, coinSpawns[i].position, Quaternion.identity);
         }
     }
-    // Update is called once per frame
-    void Update()
-    {
 
-    }
+}
 }
